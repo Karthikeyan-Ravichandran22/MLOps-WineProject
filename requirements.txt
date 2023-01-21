@@ -1,4 +1,4 @@
 dvc
-# dcv[gdrive]
+scikit-learn
 sklearn
 pandas
